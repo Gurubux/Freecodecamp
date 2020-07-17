@@ -1,0 +1,13 @@
+Scientific Computing with Python Certification
+	1. Python for Everybody 56
+	2. Scientific Computing with Python Projects 5 
+
+Data Analysis with Python Certification (300 hours)
+	1. Data Analysis with Python Course 28
+	2. Numpy 9
+	3. Data Analysis with Python Projects 5
+
+Machine Learning with Python Certification (300 hours)
+	1.TensorFlow 32
+	2. How Neural Networks Work 4
+	3. Machine Learning with Python Projects 5
